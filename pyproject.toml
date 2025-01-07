@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-aisuite = {extras = ["all"], version = "^0.1.7"}
+google-genai = "^0.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
